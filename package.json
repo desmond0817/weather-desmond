@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "buefy": "^0.9.10",
+    "nuxt": "^2.15.8",
+    "nuxt-buefy": "^0.4.10"
+  },
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0"
+  }
+}

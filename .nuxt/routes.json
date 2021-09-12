@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "C:\\\\Users\\\\Desmond Chew\\\\weather-desmond\\\\pages\\\\fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_2df70a1c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Desmond Chew\\\\weather-desmond\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_824b12a2"
+  }
+]
