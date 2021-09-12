@@ -3,5 +3,6 @@
 Open Weather Frontend UI by Desmond Chew JE
 Vue Nuxt
 
-npm i
+Use my node_modules
+Run command 'npm run dev' directly
 
